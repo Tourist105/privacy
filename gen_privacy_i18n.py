@@ -34,6 +34,7 @@ LOCALES = {
     "cs":"cs","da":"da","sv":"sv","ro":"ro","hu":"hu","el":"el","tr":"tr","ar":"ar","fa":"fa",
     "he":"iw","hi":"hi","bn":"bn","ur":"ur","th":"th","vi":"vi","id":"id","ms":"ms","tl":"tl",
     "ja":"ja","ko":"ko","zh-CN":"zh-CN","zh-TW":"zh-TW",
+    "af":"af","am":"am","az-AZ":"az","be":"be","bg":"bg","bn-BD":"bn","ca":"ca","cs-CZ":"cs","da-DK":"da","de-DE":"de","el-GR":"el","es-419":"es","es-ES":"es","es-US":"es","et":"et","eu-ES":"eu","fa-AE":"fa","fa-AF":"fa","fa-IR":"fa","fi-FI":"fi","fil":"tl","fr-CA":"fr","fr-FR":"fr","gl-ES":"gl","gu":"gu","hi-IN":"hi","hr":"hr","hu-HU":"hu","hy-AM":"hy","is-IS":"is","it-IT":"it","iw-IL":"iw","ja-JP":"ja","ka-GE":"ka","kk":"kk","km-KH":"km","kn-IN":"kn","ko-KR":"ko","ky-KG":"ky","lo-LA":"lo","lt":"lt","lv":"lv","mk-MK":"mk","ml-IN":"ml","mn-MN":"mn","mr-IN":"mr","ms-MY":"ms","my-MM":"my","ne-NP":"ne","nl-NL":"nl","no-NO":"no","pa":"pa","pl-PL":"pl","pt-BR":"pt","pt-PT":"pt","rm":"rm","ru-RU":"ru","si-LK":"si","sk":"sk","sl":"sl","sq":"sq","sr":"sr","sv-SE":"sv","sw":"sw","ta-IN":"ta","te-IN":"te","tr-TR":"tr","zh-HK":"zh-TW","zu":"zu",
 }
 
 def gtx(text, tl):
