@@ -8,13 +8,15 @@ OUT = Path(__file__).resolve().parent / "privacy-i18n.json"
 
 SRC = {
     "title": "Privacy Policy",
-    "updated": "Last updated July 2026. It covers every app I publish on Google Play.",
+    "updated": "Last updated October 2026. It covers every app I publish on Google Play.",
     "intro": "This one short policy covers every app I publish on Google Play. They all follow the same simple approach to your data.",
     "h_collect": "What I collect",
-    "collect": "Nothing reaches me. There are no servers, no accounts, no analytics and no login. Some apps work with data right on your device, such as GPS, sensors, the microphone or the camera. That input is used live and then dropped, and it never leaves your phone unless you choose to share it.",
+    "collect": "Nothing reaches me. I run no servers, there are no analytics in my utility apps, and you need no account with me. Some apps let you sign in, if you want, to an outside service you already use (see Third parties). Some apps work with data right on your device, such as GPS, sensors, the microphone or the camera. That input is used live and then dropped, and it never leaves your phone unless you choose to share it.",
     "h_third": "Third parties",
     "third1": "Google AdMob shows one banner ad in each app, and my games also offer optional rewarded video ads that you actively choose to watch for an in-game bonus. In the European Economic Area and the UK you are asked for consent first. It may receive your advertising ID, a rough location based on your IP address, and your device, operating system and app version. Google's own privacy policy governs that. You can reset your advertising ID or turn off personalised ads in your device settings.",
     "third2": "A few apps can call Google's Gemini service, but only if you enter your own API key. Receipt Categorizer also reads text with Google ML Kit right on your device, and nothing is uploaded. The Google Play review prompt is handled entirely by Google.",
+    "third3": "Map and geocaching apps load maps, routes and cache listings from services you choose, such as OpenStreetMap-based map and routing servers (for example FOSSGIS), Opencaching sites, BetterCacher, Geocaching Australia or geocaching.su. Those servers see your IP address and the area, or the start and end point, you ask for. If you sign in to one of these sites, your login goes straight to that site, and the access token stays on your device. Translation and text recognition download language packs from Google ML Kit, and your text is processed on your phone.",
+    "third4": "Optional in-app purchases are processed by Google Play. I only learn that a purchase happened, never your payment details.",
     "h_not": "What I never do",
     "notx": "No tracking, no profiling, no fingerprinting, no cookies and no selling of data. My utility apps use no analytics tools at all. My games use Google Firebase for stability and quality, described under Games below.",
     "h_perm": "Permissions",
